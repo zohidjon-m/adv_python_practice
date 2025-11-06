@@ -1,7 +1,6 @@
 # Assignment 2
 VOWELS = set('aeiouAEIOU')
-
-def counts(s: str):
+def counts(s):
     vowels = consonants = blanks = 0
     for ch in s:
         if ch == ' ':

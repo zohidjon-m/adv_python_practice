@@ -1,5 +1,5 @@
 # Assignment 1
-def swap_case(s: str) -> str:
+def swap_case(s):
     out = []
     for ch in s:
         if 'a' <= ch <= 'z':

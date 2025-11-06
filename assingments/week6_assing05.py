@@ -11,7 +11,6 @@ def bubble_sort(numbers):
         if not swapped:
             break
     return nums
-
 raw = input("Enter numbers separated by spaces: ").strip()
 arr = [int(x) for x in raw.split()]
 sorted_arr = bubble_sort(arr)
