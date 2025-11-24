@@ -1,0 +1,4 @@
+This file contains some information about sales
+Total sales today = QAR100,000
+Sales from PCs = QAR70,000
+This was added safely using with!

@@ -7,7 +7,7 @@ min_value = min(nums)
 sum_value = sum(nums)
 average_value = sum_value/len(nums)
 new_list = [x for x in nums if x>5]
-string_value = [map(str,nums)]
+string_value = str(nums)
 print(string_value)
 print(nums)
 check = False
